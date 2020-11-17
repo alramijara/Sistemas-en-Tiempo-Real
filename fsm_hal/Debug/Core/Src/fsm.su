@@ -1,0 +1,7 @@
+fsm.c:34:8:apag	16	static
+fsm.c:23:6:LedHandler	128	static
+fsm.c:41:8:dimer	16	static
+fsm.c:47:8:brill	16	static
+fsm.c:54:8:error	16	static
+fsm.c:85:6:BotonHandler	8	static
+fsm.c:126:6:dimerizar	16	static
